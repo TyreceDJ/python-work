@@ -1,4 +1,4 @@
-csx = {
+~``csx = {
     "mp1": "hardware",
     "mp2": "skinny pi",
     "mp3": "python basics",
